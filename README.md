@@ -1,1 +1,1 @@
-# uniswap-v3-staker-subgraph
+# Uniswap V3 Staker Subgraph
